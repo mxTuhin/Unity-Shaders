@@ -11,3 +11,6 @@
 - 1. Swirl/Roll
 - 2. Portal Shader
 - 3. Flame
+
+## Listed VFX
+- 1. Shield [Shader Also Included]
