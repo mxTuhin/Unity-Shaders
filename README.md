@@ -8,9 +8,9 @@
 <b> Package Can Be Found At: ShaderPackage/ </b>
 
 ## Listed Shaders
-- 1. Swirl/Roll
-- 2. Portal Shader
-- 3. Flame
+- 1\. Swirl/Roll
+- 2\. Portal Shader
+- 3\. Flame
 
 ## Listed VFX
-- 1. Shield [Shader Also Included]
+- 1\. Shield [Shader Also Included]
