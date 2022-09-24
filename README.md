@@ -14,3 +14,4 @@
 
 ## Listed VFX
 - 1\. Shield [Shader Also Included]
+- 2\. MagicOrb
