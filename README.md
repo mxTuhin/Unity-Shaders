@@ -11,7 +11,9 @@
 - 1\. Swirl/Roll
 - 2\. Portal Shader
 - 3\. Flame
+- 4\. Sword Flaming Effect - Texture Mapping
 
 ## Listed VFX
 - 1\. Shield [Shader Also Included]
 - 2\. MagicOrb
+- 3\. Sword Effect
